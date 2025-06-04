@@ -45,7 +45,7 @@ civic-participation-system/
 ├── gui.py            # Contains the NewsGUI class and layout for the news display
 ├── main.py           # Main file to run the application
 ├── news_fetcher.py   # Contains functions to fetch the latest news via RSS
-├── icons/            # Folder with icon images for news sources
+├── icons/            # Folder with icon images for news sources like al jazeera,the new, dawn, bbc
 ├── requirements.txt  # List of required dependencies
 └── README.md         # This file
 ```
