@@ -23,8 +23,7 @@ The **News Module** allows users to stay updated on the latest headlines with a 
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/civic-participation-system.git
-   cd civic-participation-system
+   git clone https://github.com/Ramlah7/LiveNewsModule.git
    ```
 
 2. **Install required dependencies**:
